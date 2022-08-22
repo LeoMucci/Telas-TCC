@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114399443918",
+    "firebase_url": "https://astra-mucci-default-rtdb.firebaseio.com",
+    "project_id": "astra-mucci",
+    "storage_bucket": "astra-mucci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114399443918:android:9416ac97a82ffb9a5d499f",
+        "android_client_info": {
+          "package_name": "com.adastra.mucci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114399443918-fpmf7p7nucu3g71a3j6u7goraibo4tsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adastra.mucci",
+            "certificate_hash": "59933c19fdd7fdca31e5213c9fab81b479705126"
+          }
+        },
+        {
+          "client_id": "114399443918-n7basehhl5er055prlb76k7l5ftqo4kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10F18K0s4HGljoZX890wvlrNKZ_IIZHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114399443918-n7basehhl5er055prlb76k7l5ftqo4kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
